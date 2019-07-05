@@ -1,0 +1,15 @@
+Package: nsscore
+Type: Package
+Title: Package containing a single function for normal score transformation
+Version: 0.0.001
+Author: Steven Pawley
+Maintainer: Steven Pawley <dr.stevenpawley@gmail.com>
+Description: Performs normal score transformation and back transformation for use with kriging
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Imports:
+  gstat,
+  sp
+RoxygenNote: 6.1.1
+
