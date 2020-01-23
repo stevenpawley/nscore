@@ -1,6 +1,6 @@
-#' nsscore: Normal score transformation and back transformation for kriging
+#' nscore: Normal score transformation and back transformation for kriging
 #'
-#' \pkg{nsscore} Experimental R functions for performing normal score transforms and back transforms
+#' \pkg{nscore} Experimental R functions for performing normal score transforms and back transforms
 # on data. This is useful when conducting geostatistical Gaussian simulation.
 #
 # Kriging with normal scores may be necessary though not sufficient for ensuring that a problem
