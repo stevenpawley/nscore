@@ -1,4 +1,4 @@
-Package: nsscore
+Package: nscore
 Type: Package
 Title: Package containing a single function for normal score transformation
 Version: 0.0.001
@@ -11,5 +11,4 @@ LazyData: true
 Imports:
   gstat,
   sp
-RoxygenNote: 6.1.1
-
+RoxygenNote: 7.0.2
